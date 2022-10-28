@@ -13,6 +13,7 @@
 		0919BB4A290AF46400F6D7FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0919BB48290AF46400F6D7FF /* Main.storyboard */; };
 		0919BB4C290AF46700F6D7FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0919BB4B290AF46700F6D7FF /* Assets.xcassets */; };
 		0919BB4F290AF46700F6D7FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0919BB4D290AF46700F6D7FF /* LaunchScreen.storyboard */; };
+		09B7EB83290C09F10064538C /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 09B7EB82290C09F10064538C /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0919BB4B290AF46700F6D7FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0919BB4E290AF46700F6D7FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0919BB50290AF46700F6D7FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		09B7EB82290C09F10064538C /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = start.txt; path = "../../../../../Downloads/HackingWithSwift-main/Classic/project5-files/start.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				0919BB48290AF46400F6D7FF /* Main.storyboard */,
 				0919BB4B290AF46700F6D7FF /* Assets.xcassets */,
 				0919BB4D290AF46700F6D7FF /* LaunchScreen.storyboard */,
+				09B7EB82290C09F10064538C /* start.txt */,
 				0919BB50290AF46700F6D7FF /* Info.plist */,
 			);
 			path = "P05 - Word Scramble";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0919BB4F290AF46700F6D7FF /* LaunchScreen.storyboard in Resources */,
+				09B7EB83290C09F10064538C /* start.txt in Resources */,
 				0919BB4C290AF46700F6D7FF /* Assets.xcassets in Resources */,
 				0919BB4A290AF46400F6D7FF /* Main.storyboard in Resources */,
 			);
